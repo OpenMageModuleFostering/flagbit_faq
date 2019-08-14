@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Flagbit_Faq",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "A FAQ module.",
+    "authors": [
+    {
+        "name": "Flagbit GmbH ",
+        "email": "magento@flagbit.de"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
